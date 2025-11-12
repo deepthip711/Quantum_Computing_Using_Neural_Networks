@@ -36,6 +36,6 @@ Quantum computing has emerged as a groundbreaking paradigm offering exponential 
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/avdyuvaraj/Quantum_Computing_Using_Neural_Networks.git
+git clone https://github.com/deepthip711/Quantum_Computing_Using_Neural_Networks.git
 cd Quantum_Computing_Using_Neural_Networks
 pip install -r requirements.txt
